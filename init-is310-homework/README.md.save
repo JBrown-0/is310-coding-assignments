@@ -1,0 +1,125 @@
+# Navigate to your project directory
+cd /Users/justinbrown/is310-coding-assignments
+
+# Create the necessary directories and file
+mkdir -p init-is310-homework/images
+cd init-is310-homework
+touch README.md
+
+# Open README.md with nano to edit it
+nano README.md
+
+# After editing README.md, save and exit nano with Ctrl+O, Enter, and Ctrl+X
+
+# Go back to the project root directory
+cd ..
+
+# Add the new directories and file to Git
+git add init-is310-homework/
+
+# Commit the changes
+git commit -m "Add init-is310-homework folder with README.md and images"
+
+# Push the changes to GitHub (make sure to replace 'your-username' with your GitHub username)
+git remote add origin https://github.com/your-username/is310-coding-assignments.git
+git push -u origin main
+
+mkdir -p init-is310-homework/images
+cd init-is310-homework
+touch README.md
+
+nano README.md
+
+mkdir -p init-is310-homework/images
+cd init-is310-homework
+touch README.md
+
+nano README.md
+
+# Init IS310 Homework
+
+## Proof of Installation
+
+1. Python
+
+![Python Installation](images/python-installation.png)
+
+2. Git
+
+![Git Installation](images/git-installation.png)
+
+3. VS Code
+
+![VS Code Installation](images/vscode-installation.png)
+
+## Additional Information
+
+- Discord Username: [Justin B]
+ Hypothesis Username: [JustinB_]
+
+cd ..
+
+git add init-is310-homework/
+
+git commit -m "Add init-is310-homework folder with README.md and images"
+
+git remote add origin https://github.com/your-username/is310-coding-assignments.git
+
+git push -u origin main
+
+# Navigate to your project directory
+mkdir -p is310-coding-assignments
+cd is310-coding-assignments
+
+# Initialize a new Git repository
+git init
+
+# Create the necessary directories and file
+mkdir -p init-is310-homework/images
+cd init-is310-homework
+touch README.md
+
+# Open README.md with nano to edit it
+nano README.md
+
+# Paste the following content into README.md and then save and exit nano (Ctrl+O, Enter, Ctrl+X)
+# You need to manually add images to the 'images' folder later
+
+# Init IS310 Homework
+
+# Proof of Installation
+
+# 1. Python
+# ![Python Installation](images/python-installation.png)
+
+# 2. Git
+# ![Git Installation](images/git-installation.png)
+
+# 3. VS Code
+# ![VS Code Installation](images/vscode-installation.png)
+
+# Additional Information
+# - Discord Username: Justin B
+# - Hypothesis Username: JustinB_
+
+# Add the new directories and file to Git
+cd ..
+git add init-is310-homework/
+
+# Commit the changes
+git commit -m "Add init-is310-homework folder with README.md and images"
+
+# Connect your local repository to GitHub
+git remote add origin https://github.com/JBrown-0/is310-coding-assignments.git
+
+# Push the changes to GitHub
+git push -u origin main
+
+cd ..
+git add init-is310-homework/
+git commit -m "Add init-is310-homework folder with README.md and images"
+git remote add origin https://github.com/JBrown-0/is310-coding-assignments.git
+git push -u origin main
+
+pwd
+
